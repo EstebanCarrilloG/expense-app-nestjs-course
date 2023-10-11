@@ -1,6 +1,6 @@
 # Expense App - NestJS Starter Project 
 ## Course video link:
-[Nest JS Backend API | Full Developer Course By Voxmind](https://www.youtube.com/watch?v=KkKiSN_yzdI)
+[NestJS Crash Course - Build a Complete Backend API](https://www.youtube.com/watch?v=BiN-xzNkH_0)
  
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="200" alt="Nest Logo" /></a>
